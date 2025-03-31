@@ -180,7 +180,19 @@ body {
     color: #C4BCB3;
 }
 
-
+#page2 {
+    height: 153vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 90px 30px;
+    overflow: hidden;
+    /* background-color: red; */
+    background-color: #C4BCB3;
+    margin-top: -1px;
+    /* // tom just the page2 so we wnt see the back line bacous for main  */
+}
 
 #page2-left {
     width: 35%;
